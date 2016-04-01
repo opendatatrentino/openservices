@@ -50,4 +50,4 @@ Data la natura flessibile del content model di eZPublish è necessario ricavare 
 
 ## Class
 
-#### Tipi di dato
+## Tipi di dato
