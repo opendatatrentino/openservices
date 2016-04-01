@@ -1,0 +1,126 @@
+{
+    "metadata": {
+        "id": 123,
+        "remoteId": "8a9c9c761004866fb458d89910f52bee",
+        "classIdentifier": "sample",
+        "class": "http://domain.ltd/api/opendata/v2/classes/sample",
+        "sectionIdentifier": "standard",
+        "stateIdentifiers": [
+            "privacy.public",
+            "moderation.skipped",
+            "test.draft"
+        ],
+        "published": "2007-11-19T14:54:46+01:00",
+        "modified": "2015-10-06T10:10:41+02:00",
+        "languages": [
+            "ita-IT",
+            "eng-GB"
+        ],
+        "name": {
+            "ita-IT": "Ciao mondo API",
+            "eng-GB": "Hello API world"
+        },
+        "parentNodes": [
+            1
+        ],
+        "link": "http://domain.ltd/api/opendata/v2/content/read/57"
+    },
+    "data": {
+        "ita-IT": {
+            "name": "Ciao mondo",
+            "abstract": "Ecco un esempio di rappresentazione del Content",
+            "body": "<p><strong>Questo</strong> è solo un esempio, avrei potuto usare un testo 'Lorem ipsum' ma il mio capo avrebbe brontolato...</p>",            
+            "image": {
+                "filename": "la_mia_immagine.jpg",
+                "url": "http://domain.ltd/.../la_mia_immagine.jpg",
+                "alt": "My awesome image"
+            },
+            "file": {
+                "filename": "il_mio_file.pdf",
+                "url": "http://domain.ltd/.../il_mio_file.pdf"
+            },            
+            "tags": [ 
+                "Una parola chiave",
+                "Un'altra parola chiave"            
+            ],
+            "relations": [
+                {                    
+                    "id": 418,
+                    "remoteId": "csvimport_frontpage_home_1323095886_0",
+                    "classIdentifier": "frontpage",
+                    "class": "http://domain.ltd/api/opendata/v2/classes/frontpage",
+                    "languages": [
+                        "ita-IT",
+                        "eng-GB"
+                    ],
+                    "name": {
+                        "ita-IT": "Una frontpage di esempio",
+                        "eng-GB": "Sample frontpage"
+                    },
+                    "link": "http://domain.ltd/api/opendata/v2/content/read/418"
+                },
+                {                    
+                    "id": 365,
+                    "remoteId": "29cbe4e36f2e2a1d97fdc9edd5396c63",
+                    "classIdentifier": "article",
+                    "class": "http://domain.ltd/api/opendata/v2/classes/article",
+                    "languages": [
+                        "ita-IT",
+                        "eng-GB"
+                    ],
+                    "name": {
+                        "ita-IT": "Un articolo di esempio",
+                        "eng-GB": "Sample article",
+                    },
+                    "link": "http://domain.ltd/api/opendata/v2/content/read/​365"
+                }
+            ]
+        },
+        "eng-GB": {
+            "name": "Hello API world",
+            "abstract": "Just a single content rapresentation",
+            "body": "<p><strong>This</strong> is an example of content: best not to use the text 'Lorem ipsum' or else my boss gets angry</p>",
+            "image": {
+                "filename": "awesome_image.jpg",
+                "url": "http://domain.ltd/.../awesome_image.jpg",
+                "alt": "My awesome image"
+            },
+            "file": {
+                "filename": "awesome_attachment.pdf",
+                "url": "http://domain.ltd/.../awesome_attachment.pdf"
+            },            
+            "tags": [ 
+                "Test keyword",
+                "Other sample keyword"            
+            ],
+            "relations": [
+                {                    
+                    "id": 418,
+                    "remoteId": "csvimport_frontpage_home_1323095886_0",
+                    "classIdentifier": "frontpage",
+                    "class": "http://domain.ltd/api/opendata/v2/classes/frontpage",
+                    "languages": [
+                        "ita-IT"
+                    ],
+                    "name": {
+                        "ita-IT": "Sample frontpage"
+                    },
+                    "link": "http://domain.ltd/api/opendata/v2/content/read/418"
+                },
+                {
+                    "id": 365,
+                    "remoteId": "29cbe4e36f2e2a1d97fdc9edd5396c63",
+                    "classIdentifier": "article",
+                    "class": "http://domain.ltd/api/opendata/v2/classes/article",
+                    "languages": [
+                        "ita-IT"
+                    ],
+                    "name": {
+                        "ita-IT": "Sample article"
+                    },
+                    "link": "http://domain.ltd/api/opendata/v2/content/read/​365"
+                }
+            ]
+        }
+    }
+}
