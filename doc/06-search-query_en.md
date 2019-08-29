@@ -19,7 +19,7 @@ Operator | Expected value type | Example
 !=  | String between quotes  | title != 'Nel mezzo del cammin'
 in and negation !=  | string Array  | title in ['Nel mezzo del cammin di nostra vita','La gloria di colui che tutto move']
 contains and negation !contains  | string Array  | title contains ['Nel mezzo del cammin di nostra vita','La gloria di colui che tutto move']
-range and negation !range   | Array di 2 stringhe  | from_time range [2014-01-01,2014-12-31]
+range and negation !range   | 2 string Array  | from_time range [2014-01-01,2014-12-31]
 
 The "contains" operator produces in logical AND: all the titles that contain the strings 'In the middle of the journey of our life' and 'The glory of the one who moves everything' simultaneously.
 
