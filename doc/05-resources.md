@@ -1,4 +1,4 @@
-#Rappresentazione delle risorse
+# Rappresentazione delle risorse
 
 ## Content
 
@@ -8,8 +8,8 @@ La risorsa contenuto rappresenta il cuore delle API. Essa viene esposta come un 
 
 | Identificatore| Tipo di dato  | Descrizione                                 |
 |:------------- |:---------------|:--------------------------------------------|
-| [metadata](#metadata)      | object        | Rappresentazione dei metadati del contenuto |
-| [data](#data)          | object        | Rappresentazione dei dati del contenuto     |
+| [metadata](#metadata)      | object        | Representation of content metadata |
+| [data](#data)          | object        | Representation of content data     |
 
 ### Metadata
 
