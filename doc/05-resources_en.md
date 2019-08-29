@@ -1,4 +1,4 @@
-#Representation of resources
+# Representation of resources
 
 ## Content
 
@@ -8,8 +8,8 @@ The resource contained represents the heart of the API. It is exposed as an obje
 
 | identifier | Type of data | Description |
 |: ------------- |: --------------- |: ---------------- ---------------------------- |
-| [metadata](# metadata) | object | Representation of content metadata |
-| [date](# date) | object | Representation of content data |
+| [metadata](#metadata) | object | Representation of content metadata |
+| [date](#date) | object | Representation of content data |
 
 ### Metadata
 
