@@ -22,3 +22,6 @@ Al momento è disponibile **l'autenticazione [Basic](https://it.wikipedia.org/wi
 - [Ricerca di punti geografici](doc/04-geo-search.md)
 - [Rappresentazione delle risorse](doc/05-resources.md)
 - [La query di ricerca](doc/06-search-query.md)
+
+## ENGLISH VERSION
+Una versione in inglese di queste istruzioni è disponibile (qui)[https://github.com/opendatatrentino/openservices]
