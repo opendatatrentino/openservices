@@ -6,10 +6,10 @@
 
 The resource contained represents the heart of the API. It is exposed as an object composed of two properties that represent its metadata and the actual data.
 
-| identifier     | Type of data     | Description                                    |
-|: ------------- |: --------------- |: ---------------- ---------------------------- |
-| [metadata](#metadata)     | object  | Representation of content metadata |
-| [date](#date)             | object  | Representation of content data |
+| Identificatore| Tipo di dato  | Descrizione                                 |
+|:------------- |:---------------|:--------------------------------------------|
+| [metadata](#metadata)      | object        | Rappresentazione dei metadati del contenuto |
+| [data](#data)          | object        | Rappresentazione dei dati del contenuto     |
 
 ### Metadata
 
