@@ -24,4 +24,4 @@ Al momento è disponibile **l'autenticazione [Basic](https://it.wikipedia.org/wi
 - [La query di ricerca](doc/06-search-query.md)
 
 ## ENGLISH VERSION
-Una versione in inglese di queste istruzioni è disponibile [qui](https://github.com/opendatatrentino/openservices)
+Una versione in inglese di queste istruzioni è disponibile [qui](README_en.md)
