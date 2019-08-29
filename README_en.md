@@ -18,7 +18,7 @@ At the moment ** authentication is available [Basic] (https://it.wikipedia.org/w
 
 - [Read content](doc/01-content-read_en.md)
 - [Search for content](doc/02-content-search_en.md)
-- [Reading of a geographical point]doc/03-geo-read_en.md)
+- [Reading of a geographical point](doc/03-geo-read_en.md)
 - [Search for geographic points](doc/04-geo-search_en.md)
 - [Resource representation](doc/05-resources_en.md)
 - [Search query](doc/06-search-query_en.md)
