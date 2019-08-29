@@ -46,7 +46,7 @@ Data la natura flessibile del content model di eZPublish è necessario ricavare 
 | query      | string        | Stringa di ricerca |
 | nextPageQuery          | string oppure null        | Stringa per ricevere la pagina successiva dei risultati      |
 | totalCount      | integer        | Numero totale di contenuti ottenuti dalla ricerca |
-| searchHits      | Array di [Content](05-resourcese#content) oppure [FeatureCollection](http://geojson.org/geojson-spec.html#feature-collection-objects)        | Risultati della ricerca |
+| searchHits      | Array di [Content](05-resources#content) oppure [FeatureCollection](http://geojson.org/geojson-spec.html#feature-collection-objects)        | Risultati della ricerca |
 
 ## Class
 
